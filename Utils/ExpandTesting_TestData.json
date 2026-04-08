@@ -1,0 +1,12 @@
+  {
+  "username": "test1234@yahoo.com",
+  "password":  "password",
+   "bookName": "JavaScript for Web Developers",
+    "yourName": "Automated test",
+    "Address": "London",
+     "cardName": "Automated test card",
+     "cardNumber": "4242424242424242",
+     "cvc": "321",
+     "cardExpiryMonth": "12",
+     "cardExpiryYear": "2048"
+  }
