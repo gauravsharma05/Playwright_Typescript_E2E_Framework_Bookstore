@@ -34,7 +34,7 @@ const config = ({
 
   use: {
     browserName: 'chromium',
-    headless: false,
+    headless: !!process.env.CI, // Runs headless only in CI (GitHub Actions)
     trace: 'on' 
   },
 
